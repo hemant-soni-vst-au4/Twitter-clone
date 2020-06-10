@@ -258,14 +258,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  better_errors (~> 2.4)
+  better_errors (~> 2.7, >= 2.7.1)
   bootsnap (>= 1.4.2)
   bulma-rails (~> 0.6.1)
   byebug
   capybara (>= 2.15)
   devise (~> 4.7, >= 4.7.1)
   gravatar_image_tag (~> 1.2)
-  guard (~> 2.14, >= 2.14.1)
+  guard (~> 2.16, >= 2.16.2)
   guard-livereload (~> 2.5, >= 2.5.2)
   jbuilder (~> 2.7)
   listen (~> 3.2)
